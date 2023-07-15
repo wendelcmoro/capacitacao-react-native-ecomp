@@ -1,3 +1,3 @@
-# Projeto base React Native
+# Capacitação React Native Ecomp 2020
 
-Tutorial ensinando os que está acontecendo: https://gitlab.com/ecomp-ufpr/utils/guias/base-native-tutorial
+Período original em que o projeto foi feito: 2° Sem. 2020
