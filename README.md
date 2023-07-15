@@ -1,2 +1,3 @@
-# capacitacao-react-native-ecomp
-Capacitação React Native Ecomp 2020 
+# Projeto base React Native
+
+Tutorial ensinando os que está acontecendo: https://gitlab.com/ecomp-ufpr/utils/guias/base-native-tutorial
